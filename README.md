@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/Veeresh Ankalagi]([https://www.linkedin.com/in/veeresh](https://www.linkedin.com/in/veeresh-ankalagi-b5127024))
+- **LinkedIn**: ([https://www.linkedin.com/in/veeresh](https://www.linkedin.com/in/veeresh-ankalagi-b5127024))
 - **GitHub**: [github.com/veeresh-600](https://github.com/veeresh-600)
 - **Email**: [veereshankalagi600@gmail.com](mailto:veereshankalagi600@gmail.com)
 
