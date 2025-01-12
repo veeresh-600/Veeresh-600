@@ -8,16 +8,17 @@
 ## 💻 Technologies I Work With
 
 ### Programming Languages:
-- **Java (J2EE)**
+- **Java**
 - **Python**
 - **C**
-- **JavaScript (React.js)**
+- **JavaScript**
 
 ### Web Development:
 - **HTML**
 - **CSS**
 - **AngularJS**
 - **Servlets**
+- **AWS**
 
 ### Database Management:
 - **MySQL**
@@ -93,14 +94,6 @@ A project using **Java**, **AngularJS**, and **Servlets** to manage student IA m
 
 ---
 
-## 📸 Screenshots
-
-### 1. **Login Page**
-![Login Page](images/login-page.png)
-
-### 2. **Dashboard**
-![Dashboard](images/dashboard.png)
-
 ---
 
 ## 📝 License
@@ -111,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/veeresh](https://www.linkedin.com/in/veeresh)
+- **LinkedIn**: [linkedin.com/in/Veeresh Ankalagi]([https://www.linkedin.com/in/veeresh](https://www.linkedin.com/in/veeresh-ankalagi-b5127024))
 - **GitHub**: [github.com/veeresh-600](https://github.com/veeresh-600)
-- **Email**: [veeresh@email.com](mailto:veeresh@email.com)
+- **Email**: [veereshankalagi600@gmail.com](mailto:veereshankalagi600@gmail.com)
 
 ---
 
